@@ -1,0 +1,99 @@
+{
+  "proceduresData": [
+    { "id": "chuyen_quyen", "title": "Chuyển quyền", "time": 8, "docs": ["GCN đã cấp.", "Đơn đăng ký biến động (Mẫu 18).", "Hợp đồng, văn bản về việc chuyển quyền.", "Văn bản ủy quyền (nếu có)."], "notes": ["Nếu nhiều người nhận chung 1 GCN thì cần văn bản thỏa thuận.", "Nếu đất đang thế chấp, cần văn bản đồng ý của ngân hàng."] },
+    { "id": "cap_doi", "title": "Cấp đổi GCN", "time": 10, "docs": ["GCN đã cấp.", "Đơn đăng ký biến động (Mẫu 18).", "Hồ sơ kỹ thuật (nếu có thay đổi ranh giới)."], "notes": ["Áp dụng cho GCN bị hỏng, rách; cần ghi đủ tên thành viên hộ gia đình, vợ/chồng..."] },
+    { "id": "cap_lai", "title": "Cấp lại GCN do bị mất", "time": 10, "docs": ["Đơn đăng ký biến động (Mẫu 18).", "Giấy xác nhận của UBND xã về việc đã niêm yết thông báo mất giấy."], "notes": ["Quy trình cần có bước niêm yết công khai tại UBND cấp xã."] },
+    { "id": "tach_hop_thua", "title": "Tách/Hợp thửa", "time": 12, "docs": ["GCN đã cấp.", "Đơn đề nghị tách/hợp thửa (Mẫu 21).", "Bản vẽ tách/hợp thửa (Mẫu 22)."], "notes": ["Phải đảm bảo điều kiện về diện tích tối thiểu."] },
+    { "id": "giay_tay", "title": "Đăng ký đất \"giấy tay\"", "time": 30, "docs": ["Đơn đăng ký biến động (Mẫu 18).", "Bản gốc GCN của bên bán (nếu có).", "Giấy tờ chuyển quyền viết tay."], "notes": ["Áp dụng cho trường hợp chuyển quyền trước 01/8/2024."] },
+    { "id": "dieu_chinh", "title": "Điều chỉnh thông tin", "time": 4, "docs": ["GCN đã cấp.", "Đơn đăng ký biến động (Mẫu 18).", "Giấy tờ chứng minh."], "notes": [] },
+    { "id": "gia_han_nn", "title": "Gia hạn đất nông nghiệp", "time": 7, "docs": ["GCN đã cấp.", "Đơn xin xác nhận lại thời hạn (Mẫu 09)."], "notes": [] },
+    { "id": "xoa_no", "title": "Xóa ghi nợ", "time": 1, "docs": ["GCN đã cấp.", "Chứng từ đã hoàn thành thanh toán."], "notes": [] },
+    { "id": "thu_hoi_sai", "title": "Thu hồi GCN cấp sai", "time": 25, "docs": ["Văn bản kiến nghị.", "GCN đã cấp sai (bản gốc)."], "notes": [] }
+  ],
+  "feeData": {
+    "le_phi": {
+      "canhan": {
+        "thanhpho": { "cap_moi": 100000, "cap_doi": 39000 },
+        "conlai": { "cap_moi": 70000, "cap_doi": 20000 }
+      },
+      "tochuc": {
+        "thanhpho": { "cap_moi": 700000, "cap_doi": 700000 },
+        "conlai": { "cap_moi": 700000, "cap_doi": 700000 }
+      }
+    },
+    "phi_tham_dinh": {
+      "canhan": {
+        "cap_moi_dat": { "direct": 880000, "online": 836000 },
+        "cap_moi_taisankhong": { "direct": 980000, "online": 931000 },
+        "cap_moi_datvataisan": { "direct": 1250000, "online": 1187500 },
+        "cap_doi": { "direct": 1080000, "online": 1026000 },
+        "bien_dong_capmoi": { "direct": 720000, "online": 684000 },
+        "bien_dong_xacnhan": { "direct": 590000, "online": 560500 }
+      },
+      "tochuc": {
+        "cap_moi_dat": { "direct": 1260000, "online": 1197000 },
+        "cap_moi_taisankhong": { "direct": 1840000, "online": 1748000 },
+        "cap_moi_datvataisan": { "direct": 2090000, "online": 1985500 },
+        "cap_doi": { "direct": 1260000, "online": 1197000 },
+        "bien_dong_capmoi": { "direct": 1410000, "online": 1339500 },
+        "bien_dong_xacnhan": { "direct": 1200000, "online": 1140000 }
+      }
+    }
+  },
+  "feeProcedureOptions": [
+    { "value": "cap_moi_dat", "text": "Cấp mới (chỉ có QSD đất)" },
+    { "value": "cap_moi_taisankhong", "text": "Cấp mới (chỉ có tài sản)" },
+    { "value": "cap_moi_datvataisan", "text": "Cấp mới (cả đất và tài sản)" },
+    { "value": "cap_doi", "text": "Cấp đổi / Cấp lại" },
+    { "value": "bien_dong_capmoi", "text": "Đăng ký biến động (cấp GCN mới)" },
+    { "value": "bien_dong_xacnhan", "text": "Đăng ký biến động (xác nhận vào GCN)" }
+  ],
+  "applicantOptions": [
+    { "value": "canhan", "text": "Hộ gia đình, cá nhân" },
+    { "value": "tochuc", "text": "Tổ chức" }
+  ],
+  "regionOptions": [
+    { "value": "thanhpho", "text": "Các phường thuộc TP. Biên Hòa, Long Khánh" },
+    { "value": "conlai", "text": "Các địa bàn còn lại" }
+  ],
+  "legalData": [
+    {
+      "category": "Phụ lục Chi tiết Thủ tục Hành chính",
+      "procedures": [
+        {
+          "title": "1. Đăng ký biến động (Chuyển nhượng, thừa kế, tặng cho...)",
+          "content": "<div class='text-sm space-y-3'><p><strong>Trình tự thực hiện:</strong><ol class='list-decimal pl-5'><li>Người yêu cầu nộp hồ sơ tại Bộ phận một cửa.</li><li>Cơ quan tiếp nhận kiểm tra hồ sơ và hẹn trả kết quả.</li><li>Văn phòng ĐKĐĐ kiểm tra, gửi thông tin thuế, cập nhật hồ sơ và cấp/xác nhận GCN.</li></ol></p><p><strong>Thành phần hồ sơ:</strong><ul class='list-disc pl-5'><li>Đơn đăng ký biến động (Mẫu 18).</li><li>Bản gốc Giấy chứng nhận đã cấp.</li><li>Hợp đồng, văn bản về việc chuyển quyền đã được công chứng hoặc chứng thực.</li></ul></p><p><strong>Căn cứ pháp lý:</strong> Mục 21, Phần B, Phụ lục ban hành kèm Quyết định 2304/QĐ-BNNMT.</div>"
+        },
+        {
+          "title": "2. Cấp đổi Giấy chứng nhận",
+          "content": "<div class='text-sm space-y-3'><p><strong>Trình tự thực hiện:</strong><ol class='list-decimal pl-5'><li>Người yêu cầu nộp hồ sơ.</li><li>Cơ quan tiếp nhận kiểm tra.</li><li>Văn phòng ĐKĐĐ kiểm tra, đối chiếu và cấp GCN mới.</li></ol></p><p><strong>Thành phần hồ sơ:</strong><ul class='list-disc pl-5'><li>Đơn đăng ký biến động (Mẫu 18).</li><li>Bản gốc Giấy chứng nhận đã cấp.</li></ul></p><p><strong>Căn cứ pháp lý:</strong> Mục 6, Phần B, Phụ lục ban hành kèm Quyết định 2304/QĐ-BNNMT.</div>"
+        },
+        {
+          "title": "3. Cấp lại Giấy chứng nhận do bị mất",
+          "content": "<div class='text-sm space-y-3'><p><strong>Trình tự thực hiện:</strong><ol class='list-decimal pl-5'><li>Người sử dụng đất khai báo với UBND cấp xã.</li><li>UBND cấp xã niêm yết công khai việc mất GCN trong 15 ngày.</li><li>Sau 15 ngày, người dân nộp hồ sơ tại Văn phòng ĐKĐĐ.</li><li>Văn phòng ĐKĐĐ kiểm tra, hủy GCN cũ và cấp lại GCN mới.</li></ol></p><p><strong>Thành phần hồ sơ:</strong><ul class='list-disc pl-5'><li>Đơn đăng ký biến động (Mẫu 18) có xác nhận của UBND cấp xã về việc đã niêm yết.</li></ul></p><p><strong>Căn cứ pháp lý:</strong> Mục 8, Phần B, Phụ lục ban hành kèm Quyết định 2304/QĐ-BNNMT.</div>"
+        }
+      ]
+    },
+    {
+      "category": "Toàn văn Văn bản Pháp lý liên quan",
+      "procedures": [
+        {
+          "title": "Luật Đất đai số 31/2024/QH15",
+          "content": "<div class='text-sm'><p class='mt-2'><a href='https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=170509&Keyword=Lu%E1%BA%ADt%20%C4%90%E1%BA%A5t%20%C4%91ai%20s%E1%BB%91%2031/2024/QH15' target='_blank' class='inline-block bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition'>Xem toàn văn tại CSDL quốc gia về VBPL →</a></p></div>"
+        },
+        {
+          "title": "Nghị định số 101/2024/NĐ-CP",
+          "content": "<div class='text-sm'><p class='mt-2'><a href='https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=169188' target='_blank' class='inline-block bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition'>Xem toàn văn tại CSDL quốc gia về VBPL →</a></p></div>"
+        },
+        {
+          "title": "Nghị định số 118/2025/NĐ-CP",
+          "content": "<div class='text-sm'><p class='mt-2'><a href='https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=178283&Keyword=Ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh%20118/2025/N%C4%90-CP' target='_blank' class='inline-block bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition'>Xem toàn văn tại CSDL quốc gia về VBPL →</a></p><p class='mt-2 italic'>(Lưu ý: Năm 2025 trong tên văn bản là giả định theo tài liệu gốc để minh họa).</p></div>"
+        },
+        {
+          "title": "Nghị định số 151/2025/NĐ-CP",
+          "content": "<div class='text-sm'><p class='mt-2'><a href='https://vbpl.vn/tw/Pages/vbpq-van-ban-goc.aspx?ItemID=178259' target='_blank' class='inline-block bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition'>Xem toàn văn tại CSDL quốc gia về VBPL →</a></p><p class='mt-2 italic'>(Lưu ý: Năm 2025 trong tên văn bản là giả định theo tài liệu gốc để minh họa).</p></div>"
+        }
+      ]
+    }
+  ]
+} 
