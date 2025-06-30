@@ -20,6 +20,7 @@
       "Trinh tu thu tuc": [
         {
           "STT": "1",
+          "TenVietTat": "Chuyển quyền",
           "Tên thủ tục": "Hồ sơ thủ tục chuyển quyền (chuyển đổi, chuyển nhượng, thừa kế, tặng cho, thỏa thuận hộ gia đình, vợ chồng…)",
           "Căn cứ pháp lý": "II.1, mục 1 của II.2 phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -41,6 +42,7 @@
         },
         {
           "STT": "2",
+          "TenVietTat": "Điều chỉnh thông tin sử dụng đất",
           "Tên thủ tục": "Hồ sơ thủ tục điều chỉnh thông tin sử dụng đất",
           "Căn cứ pháp lý": "II.1, mục 5 của II.2 phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025.",
           "Thành phần hồ sơ giấy tờ": [
@@ -53,6 +55,7 @@
         },
         {
           "STT": "3",
+          "TenVietTat": "Gia hạn",
           "Tên thủ tục": "Thủ tục gia hạn đất nông nghiệp",
           "Căn cứ pháp lý": "Điều 65 Nghị định 102/2024/NĐ-CP ngày 30/06/2024",
           "Thành phần hồ sơ giấy tờ": [
@@ -63,6 +66,7 @@
         },
         {
           "STT": "4",
+          "TenVietTat": "Xác lập, thay đổi hạn chế liền kề",
           "Tên thủ tục": "Thành phần hồ sơ thủ tục xác lập, thay đổi hạn chế liền kề",
           "Căn cứ pháp lý": "II.1, mục 6 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -74,6 +78,7 @@
         },
         {
           "STT": "5",
+          "TenVietTat": "Hồ sơ giải quyết tranh chấp, khiếu nại, tố cáo",
           "Tên thủ tục": "Thành phần hồ sơ thủ tục nhận quyền sử dụng đất theo kết quả giải quyết tranh chấp, khiếu nại, tố cáo về đất đai hoặc bản án Quyết định của Tòa án.",
           "Căn cứ pháp lý": "II.1, mục 12 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -87,6 +92,7 @@
         },
         {
           "STT": "6",
+          "TenVietTat": "Nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do xử lý tài sản thế chấp....",
           "Tên thủ tục": "Trường hợp nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do xử lý tài sản thế chấp, tài sản gắn liền với đất đã được đăng ký, bao gồm xử lý khoản nợ có nguồn gốc từ khoản nợ xấu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
           "Căn cứ pháp lý": "II.1, mục 13 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -99,6 +105,7 @@
         },
         {
           "STT": "7",
+          "TenVietTat": "Xóa ghi nợ tiền sử dụng đất, lệ phí trước bạ",
           "Tên thủ tục": "Hồ sơ thủ tục xóa ghi nợ tiền sử dụng đất, lệ phí trước bạ",
           "Căn cứ pháp lý": "II.1, mục 17 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -109,6 +116,7 @@
         },
         {
           "STT": "8",
+          "TenVietTat": "Đính chính giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động có sai sót",
           "Tên thủ tục": "Hồ sơ thủ tục đính chính giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động có sai sót",
           "Căn cứ pháp lý": "XIV. phần B của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -120,6 +128,7 @@
         },
         {
           "STT": "9",
+          "TenVietTat": "Chuyển mục đích sử dụng đất",
           "Tên thủ tục": "Thành phần hồ sơ thủ tục chuyển mục đích sử dụng đất quy định tại khoản 3 Điều 121 Luật Đất Đai (chuyển mục đích không phải xin phép của cơ quan có thẩm quyền",
           "Căn cứ pháp lý": "II.1, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -131,6 +140,7 @@
         },
         {
           "STT": "10",
+          "TenVietTat": "Tách, hợp thửa không thực hiện quyền",
           "Tên thủ tục": "Thành phần hồ sơ thủ tục tách, hợp thửa không thực hiện quyền",
           "Căn cứ pháp lý": "I. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -143,6 +153,7 @@
         },
         {
           "STT": "11",
+          "TenVietTat": "Tách thửa kèm theo thực hiện quyền",
           "Tên thủ tục": "Hồ sơ thủ tục tách thửa kèm theo thực hiện quyền:",
           "Căn cứ pháp lý": "I. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -156,6 +167,7 @@
         },
         {
           "STT": "12",
+          "TenVietTat": "Cấp đổi",
           "Tên thủ tục": "Hồ sơ thủ tục cấp đổi giấy chứng nhận",
           "Căn cứ pháp lý": "VII. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
           "Thành phần hồ sơ giấy tờ": [
@@ -172,6 +184,7 @@
         },
         {
           "STT": "13",
+          "TenVietTat": "Cấp lại",
           "Tên thủ tục": "Hồ sơ thủ tục cấp lại giấy chứng nhận đã cấp do bị mất",
           "Căn cứ pháp lý": "VIII. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -187,6 +200,7 @@
         },
         {
           "STT": "14",
+          "TenVietTat": "Thu hồi Giấy chứng nhận",
           "Tên thủ tục": "Hồ sơ thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện và cấp lại Giấy chứng nhận sau khi thu hồi",
           "Căn cứ pháp lý": "khoản XV. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -204,6 +218,7 @@
         },
         {
           "STT": "15",
+          "TenVietTat": "Đăng ký, cấp Giấy chứng nhận đối trước ngày 01 tháng 8 năm 2024",
           "Tên thủ tục": "hồ sơ đăng ký, cấp Giấy chứng nhận đối với trường hợp đã chuyển quyền sử dụng đất trước ngày 01 tháng 8 năm 2024 mà bên chuyển quyền đã được cấp Giấy chứng nhận nhưng chưa thực hiện thủ tục chuyển quyền theo quy định",
           "Căn cứ pháp lý": "khoản XI. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
           "Thành phần hồ sơ giấy tờ": [
@@ -227,6 +242,7 @@
         },
         {
           "STT": "16",
+          "TenVietTat": "Đính chính Giấy chứng nhận đã cấp",
           "Tên thủ tục": "Đính chính Giấy chứng nhận đã cấp",
           "Căn cứ pháp lý": "khoản XIV. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
           "Thành phần hồ sơ giấy tờ": [
@@ -239,6 +255,7 @@
         },
         {
           "STT": "17",
+          "TenVietTat": "Cung cấp dữ liệu đất đai",
           "Tên thủ tục": "Cung cấp dữ liệu thông tin, dữ liệu đất đai",
           "Căn cứ pháp lý": "Phần VI Nghị định 151/2025/NĐ-CP ngày 12/6/2025",
           "Thành phần hồ sơ giấy tờ": [
@@ -248,6 +265,7 @@
         },
         {
           "STT": "18",
+          "TenVietTat": "Đăng ký giao dịch bảo đảm",
           "Tên thủ tục": "Đăng ký giao dịch bảo đảm",
           "Căn cứ pháp lý": "Nghị định 99/2022/NĐCP ngày 30/11/2024",
           "Thành phần hồ sơ giấy tờ": [
@@ -259,6 +277,7 @@
         },
         {
           "STT": "19",
+          "TenVietTat": "Đo đạc",
           "Tên thủ tục": "Đo đạc lập bản vẽ kỷ thuật thửa đất",
           "Căn cứ pháp lý": "Thông tư 26/2024/TT-BTNMT ngày 26/44/2024",
           "Thành phần hồ sơ giấy tờ": [
