@@ -51,7 +51,7 @@
         ],
         "Thời gian giải quyết": "Không quá 4 ngày làm việc",
         "Phí và lệ phí": "",
-        "icon": "✏️",
+        "icon": "📝",
         "time": 4
       },
       {
@@ -94,7 +94,7 @@
           "- Quyết định hoặc bản án của Tòa án nhân dân, quyết định về thi hành án của cơ quan thi hành án đã được thi hành."
         ],
         "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
-        "icon": "📥",
+        "icon": "⚖️",
         "time": 8
       },
       {
@@ -109,7 +109,7 @@
           "- Hợp đồng mua bán tài sản bán đấu giá hoặc VB xác nhận kết quả thi hành án của Cơ quan thi hành án dân sự."
         ],
         "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
-        "icon": "📥",
+        "icon": "📝",
         "time": 8
       },
       {
@@ -122,7 +122,7 @@
           "- Giấy tờ chứng minh đã hoàn thành việc thanh toán nợ tiền sử dụng đất, lệ phí trước bạ theo quy định pháp luật về thu tiền sử dụng đất tiền thuê đất"
         ],
         "Thời gian giải quyết": "Trong ngày làm việc nếu nộp sau 15 giờ cùng ngày thì thời gian giải quyết trong ngày tiếp theo.",
-        "icon": "💸",
+        "icon": "📝",
         "time": 1
       },
       {
@@ -253,7 +253,7 @@
         "Ghi chú": [
          "Nội dung nghiên cứu trang 73-74 phụ lục I ban hành kèm theo Nghị định 151/2025/NĐ-CP"
         ],
-        "icon": "🗂️",
+        "icon": "📝",
         "time": 8
       },
       {
