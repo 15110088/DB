@@ -1,408 +1,514 @@
 {
-    "metadata": {
-      "file_name": "nguon.xlsx",
-      "sheets": [
-        {
-          "sheet_name": "Trinh tu thu tuc",
-          "sheet_index_num": 1
-        },
-        {
-          "sheet_name": "Don gia 1",
-          "sheet_index_num": 2
-        },
-        {
-          "sheet_name": "Don gia 2",
-          "sheet_index_num": 3
-        }
-      ]
-    },
-    "data": {
-      "Trinh tu thu tuc": [
-        {
-          "STT": "1",
-          "TenVietTat": "Chuyển quyền",
-          "Tên thủ tục": "Hồ sơ thủ tục chuyển quyền (chuyển đổi, chuyển nhượng, thừa kế, tặng cho, thỏa thuận hộ gia đình, vợ chồng…)",
-          "Căn cứ pháp lý": "II.1, mục 1 của II.2 phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
-            "- Giấy chứng nhận đã cấp",
-            "- Hợp đồng chuyển nhượng, Hợp đồng tặng cho, VB phân chia di sản thừa kế, hợp đồng chuyển đổi hoặc văn bản về việc chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.",
-            "- Văn bản về việc đại diện theo quy định của pháp luật về dân sự đối với trường hợp thực hiện thủ tục đăng ký đất đai, tài sản gắn liền với đất thông qua người đại diện."
-          ],
-          "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
-          "Ghi chú": [
-            "Khi tiếp nhận kiểm tra nội dung còn thời hạn sử dụng đất hay không và có chậm đăng ký biến động theo quy định tại Khoản 3 Điều 133 Luật đất đai năm 2024."
-          ],
-          "Phí và lệ phí": [
-            
-          ]
-        },
-        {
-          "STT": "2",
-          "TenVietTat": "Điều chỉnh thông tin sử dụng đất",
-          "Tên thủ tục": "Hồ sơ thủ tục điều chỉnh thông tin sử dụng đất",
-          "Căn cứ pháp lý": "II.1, mục 5 của II.2 phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025.",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
-            "- Khai thác sử dụng thông tin trong cơ sở dữ liệu quốc gia về dân cư, nếu không khai thác được thông tin về cá nhân thì nộp bản sao hoặc xuất trình bản chính giấy tờ chứng minh việc đổi tên, thay đổi thông tin của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất."
-          ],
-          "Thời gian giải quyết": "Không quá 4 ngày làm việc",
-          "Phí và lệ phí": ""
-        },
-        {
-          "STT": "3",
-          "TenVietTat": "Gia hạn",
-          "Tên thủ tục": "Thủ tục gia hạn đất nông nghiệp",
-          "Căn cứ pháp lý": "Điều 65 Nghị định 102/2024/NĐ-CP ngày 30/06/2024",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp",
-            "- Đơn xin xác nhận lại thời hạn sử dụng đất nông nghiệp (mẫu số 09) ban hành kèm theo Nghị định 102/2024/NĐ-CP ngày 30 tháng 07 năm 2024"
-          ],
-          "Thời gian giải quyết": "Không quá 7 ngày làm việc"
-        },
-        {
-          "STT": "4",
-          "TenVietTat": "Xác lập, thay đổi hạn chế liền kề",
-          "Tên thủ tục": "Thành phần hồ sơ thủ tục xác lập, thay đổi hạn chế liền kề",
-          "Căn cứ pháp lý": "II.1, mục 6 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
-            "- Văn bản thỏa thuận về việc xác lập, thay đổi quyền sử dụng hạn chế thửa đất liền kề có kèm theo bản sơ hoạ."
-          ],
-          "Thời gian giải quyết": "Không quá 5 ngày làm việc"
-        },
-        {
-          "STT": "5",
-          "TenVietTat": "Hồ sơ nhận quyền sử dụng đất theo kết quả giải quyết tranh chấp, …. về đất đai hoặc bản án QĐ Tòa án.",
-          "Tên thủ tục": "Thành phần hồ sơ thủ tục nhận quyền sử dụng đất theo kết quả giải quyết tranh chấp, khiếu nại, tố cáo về đất đai hoặc bản án Quyết định của Tòa án.",
-          "Căn cứ pháp lý": "II.1, mục 12 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp.",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
-            "- Biên bản hòa giải thành hoặc văn bản công nhận kết quả hòa giải thành được cơ quan có thẩm quyền công nhận.",
-            "- Quyết định của cơ quan có thẩm quyền về việc giải quyết tranh chấp, khiếu nại, tố cáo về đất đai đã có hiệu lực thi hành theo quy định của pháp luật.",
-            "- Quyết định hoặc bản án của Tòa án nhân dân, quyết định về thi hành án của cơ quan thi hành án đã được thi hành."
-          ],
-          "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)"
-        },
-        {
-          "STT": "6",
-          "TenVietTat": "Nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do xử lý tài sản thế chấp....",
-          "Tên thủ tục": "Trường hợp nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do xử lý tài sản thế chấp, tài sản gắn liền với đất đã được đăng ký, bao gồm xử lý khoản nợ có nguồn gốc từ khoản nợ xấu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
-          "Căn cứ pháp lý": "II.1, mục 13 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
-            "- Hợp đồng chuyển nhượng QSDĐ.",
-            "- Hợp đồng mua bán tài sản bán đấu giá hoặc VB xác nhận kết quả thi hành án của Cơ quan thi hành án dân sự."
-          ],
-          "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)"
-        },
-        {
-          "STT": "7",
-          "TenVietTat": "Hồ  sơ  xóa  ghi  nợ  tiền  sử  dụng  đất,  lệ  phí trước  bạ",
-          "Tên thủ tục": "Hồ sơ thủ tục xóa ghi nợ tiền sử dụng đất, lệ phí trước bạ",
-          "Căn cứ pháp lý": "II.1, mục 17 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp",
-            "- Giấy tờ chứng minh đã hoàn thành việc thanh toán nợ tiền sử dụng đất, lệ phí trước bạ theo quy định pháp luật về thu tiền sử dụng đất tiền thuê đất"
-          ],
-          "Thời gian giải quyết": "Trong ngày làm việc nếu nộp sau 15 giờ cùng ngày thì thời gian giải quyết trong ngày tiếp theo."
-        },
-        {
-          "STT": "8",
-          "TenVietTat": "Đính chính giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động có sai sót",
-          "Tên thủ tục": "Hồ sơ thủ tục đính chính giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động có sai sót",
-          "Căn cứ pháp lý": "XIV. phần B của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "Giấy chứng nhận đã cấp bản gốc",
-            "Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
-            "Giấy tờ chứng minh sai sót thông tin của người được cấp giấy so với thông tin tại thời điểm đề nghị đính chính."
-          ],
-          "Thời gian giải quyết": "Không quá 8 ngày làm việc."
-        },
-        {
-          "STT": "9",
-          "TenVietTat": "Chuyển mục đích sử dụng đất",
-          "Tên thủ tục": "Thành phần hồ sơ thủ tục chuyển mục đích sử dụng đất quy định tại khoản 3 Điều 121 Luật Đất Đai (chuyển mục đích không phải xin phép của cơ quan có thẩm quyền",
-          "Căn cứ pháp lý": "II.1, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025."
-          ],
-          "Thời gian giải quyết": "Không quá 7 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
-          "Ghi chú": "Lưu ý: Gửi Phiếu chuyển thông tin để xác định nghĩa vụ tài chính về đất đai theo Mẫu số 19 ban hành kèm theo Nghị định số 151/2025/NĐ-CP đến cơ quan thuế để xác định và thông báo thu nghĩa vụ tài chính đối với trường hợp phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật."
-        },
-        {
-          "STT": "10",
-          "TenVietTat": "Tách, hợp thửa không thực hiện quyền",
-          "Tên thủ tục": "Thành phần hồ sơ thủ tục tách, hợp thửa không thực hiện quyền",
-          "Căn cứ pháp lý": "I. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp hoặc bản sao giấy chứng nhận có công chứng chứng thực hoặc bản sao kèm bản chính đã đối chiếu",
-            "- Đơn đề nghị tách thửa hợp thửa đất theo mẫu số 21 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
-            "- Bản vẽ tách thửa hợp thửa lập theo mẫu số 22 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
-            "- Các văn bản của cơ quan có thẩm quyền có nội dung thể hiện tách thửa đất, hợp thửa đất (nếu có)."
-          ],
-          "Thời gian giải quyết": "Không quá 12 ngày làm việc"
-        },
-        {
-          "STT": "11",
-          "TenVietTat": "Tách thửa kèm theo thực hiện quyền",
-          "Tên thủ tục": "Hồ sơ thủ tục tách thửa kèm theo thực hiện quyền:",
-          "Căn cứ pháp lý": "I. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp hoặc bản sao giấy chứng nhận có công chứng chứng thực hoặc bản sao kèm bản chính đã đối chiếu.",
-            "- Đơn đề nghị tách thửa hợp thửa đất theo mẫu số 21 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
-            "- Bản vẽ tách thửa hợp thửa lập theo mẫu số 22 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
-            "- Hợp đồng chuyển nhượng, Hợp đồng tặng cho, VB phân chia di sản thừa kế, hợp đồng chuyển đổi hoặc văn bản về việc chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.",
-            "- Các văn bản của cơ quan có thẩm quyền có nội dung thể hiện tách thửa đất, hợp thửa đất (nếu có)."
-          ],
-          "Thời gian giải quyết": "Không quá 12 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)"
-        },
-        {
-          "STT": "12",
-          "TenVietTat": "Hồ sơ cấp đổi giấy chứng nhận",
-          "Tên thủ tục": "Hồ sơ thủ tục cấp đổi giấy chứng nhận",
-          "Căn cứ pháp lý": "VII. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
-            "- Hồ sơ kỹ thuật đối với trường hợp có thay đổi diện tích ranh giới vị trí (kèm theo bản vẽ trích đo là biên bản mốc giới của đo đạc có các chủ sử dụng đất ký giáp ranh và xác nhận tình trạng tranh chấp)"
-          ],
-          "Thời gian giải quyết": "Không quá 5 ngày làm việc đối với trường hợp không biến động diện tích, có biến động diện tích hay cấp đổi đúng vị trí không quá 10 ngày làm việc (không kể thời gian thực hiệ NVTC)",
-          "Ghi chú": [
-                   "Lưu ý có 8 trường hợp hợp thực hiện cấp đổi. Đề nghị nghiên cứu trang 66-67 phụ lục I Ban hành kèm theo Nghị định 151/2025/NĐ-CP"
-          ]
-        },
-        {
-          "STT": "13",
-          "TenVietTat": "Cấp lại",
-          "Tên thủ tục": "Hồ sơ thủ tục cấp lại giấy chứng nhận đã cấp do bị mất",
-          "Căn cứ pháp lý": "VIII. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "Đối với trường hợp cấp lại Giấy chứng nhận bị mất",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
-            "- Mảnh trích đo bản đồ địa chính thửa đất đối với trường hợp người sử dụng đất có nhu cầu đo đạc để xác định lại kích thước các cạnh, diện tích của thửa đất",
-            "Đối với trường hợp mất Trang bổ sung",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP",
-            "- Giấy chứng nhận đã cấp.",
-            "- Mảnh trích đo bản đồ địa chính thửa đất đối với trường hợp người sử dụng đất có nhu cầu đo đạc để xác định lại kích thước các cạnh, diện tích của thửa đất"
-          ],
-          "Thời gian giải quyết": "Không quá 10 ngày làm việc."
-        },
-        {
-          "STT": "14",
-          "TenVietTat": "Thu hồi Giấy chứng nhận",
-          "Tên thủ tục": "Hồ sơ thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện và cấp lại Giấy chứng nhận sau khi thu hồi",
-          "Căn cứ pháp lý": "khoản XV. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận đã cấp (bản gốc).",
-            "- Văn bản kiến nghị việc cấp Giấy chứng nhận không đúng quy định của pháp luật đất đai (bản chính)."
-          ],
-          "Thời gian giải quyết": "Không quá 25 ngày làm việc",
-          "Ghi chú": [
-            "Thông tin chi tiết đề nghị nghiên cứu trang 80 đến trang 83 phụ lục I ban hành kèm theo Nghị dịnh 151/2025/NĐCP"
-          ]
-        },
-        {
-          "STT": "15",
-          "TenVietTat": "Đăng ký, cấp Giấy chứng nhận đối trước ngày 01 tháng 8 năm 2024",
-          "Tên thủ tục": "hồ sơ đăng ký, cấp Giấy chứng nhận đối với trường hợp đã chuyển quyền sử dụng đất trước ngày 01 tháng 8 năm 2024 mà bên chuyển quyền đã được cấp Giấy chứng nhận nhưng chưa thực hiện thủ tục chuyển quyền theo quy định",
-          "Căn cứ pháp lý": "khoản XI. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
-          "Thành phần hồ sơ giấy tờ": [
-            "(1) Trường hợp người đang sử dụng đất do nhận chuyển quyền sử dụng đất trước ngày 01 tháng 8 năm 2024 nhưng chỉ có hợp đồng, văn bản về chuyển quyền sử dụng đất đã lập theo quy định mà bên chuyển quyền không trao Giấy chứng nhận cho bên nhận chuyển quyền thì hồ sơ gồm:",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP.",
-            "- Hợp đồng, văn bản về chuyển quyền sử dụng đất đã lập theo quy định.",
-            "(2) Trường hợp bên nhận chuyển quyền sử dụng đất chỉ có Giấy chứng nhận đã cấp của bên chuyển quyền nhưng không có hợp đồng, văn bản về chuyển quyền sử dụng đất theo quy định thì hồ sơ gồm:",
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP.",
-            "- Bản gốc Giấy chứng nhận đã cấp.",
-            "- Giấy tờ về việc chuyển quyền sử dụng đất có đủ chữ ký của bên chuyển quyền và bên nhận chuyển quyền."
-          ],
-          "Thời gian giải quyết": "Không quá 08 ngày làm việc (không kể thời gian hoàn thành NVTC)",
-          "Ghi chú": [
-           "Nội dung nghiên cứu trang 73-74 phụ lục I ban hành kèm theo Nghị định 151/2025/NĐ-CP"
-          ]
-        },
-        {
-          "STT": "16",
-          "TenVietTat": "Đính chính Giấy chứng nhận đã cấp",
-          "Tên thủ tục": "Đính chính Giấy chứng nhận đã cấp",
-          "Căn cứ pháp lý": "khoản XIV. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP",
-            "Giấy chứng nhận đã cấp",
-            "- Giấy tờ chứng minh sai sót thông tin của người được cấp Giấy chứng nhận so với thông tin tại thời điểm đề nghị đính chính hoặc sai sót thông tin về thửa đất, tài sản gắn liền với đất so với thông tin trên Giấy chứng nhận đã cấp",
-            "- Văn bản về việc ủy quyền theo quy định của pháp luật về dân sự đối với trường hợp thực hiện thủ tục thông qua người đại diện (nếu có)"
-          ],
-          "Thời gian giải quyết": "Không quá 8 ngày làm việc."
-        },
-        {
-          "STT": "17",
-          "TenVietTat": "Cung cấp dữ liệu đất đai",
-          "Tên thủ tục": "Cung cấp dữ liệu thông tin, dữ liệu đất đai",
-          "Căn cứ pháp lý": "Phần VI Nghị định 151/2025/NĐ-CP ngày 12/6/2025",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Phiếu yêu cầu cung cấp thông tin dữ liệu đất đai mẫu số 14 ban hành kèm theo Nghị định 151/2025/NĐ-CP."
-          ],
-          "Thời gian giải quyết": "Không quá 2 ngày làm việc"
-        },
-        {
-          "STT": "18",
-          "TenVietTat": "Đăng ký giao dịch bảo đảm",
-          "Tên thủ tục": "Đăng ký giao dịch bảo đảm",
-          "Căn cứ pháp lý": "Nghị định 99/2022/NĐCP ngày 30/11/2024",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Giấy chứng nhận quyền sử dụng đất",
-            "- Hợp đồng bảo đảm",
-            "- Các mẫu đơn 1a, 2a, 3a, 4a,5a, 6a,7a ban hành kèm theo Nghị định 99"
-          ],
-          "Thời gian giải quyết": "Không quá 3 ngày làm việc"
-        },
-        {
-          "STT": "19",
-          "TenVietTat": "Đo đạc",
-          "Tên thủ tục": "Đo đạc lập bản vẽ kỷ thuật thửa đất",
-          "Căn cứ pháp lý": "Thông tư 26/2024/TT-BTNMT ngày 26/44/2024",
-          "Thành phần hồ sơ giấy tờ": [
-            "- Hợp đồng đo vẽ",
-            "- Bản photo giấy chứng nhận"
-          ],
-          "Thời gian giải quyết": "Từ 3 đến 10 ngày làm việc",
-          "Ghi chú": "Lưu ý lập hợp đồng trực tiếp tại Trung tâm hành chính công các xã An Phước, Bình An, Long Thành, Long Phước, Phước Thái",
-          "Phí và lệ phí": ""
-        }
-      ],
-      "Don gia 1": {
-        "PHÍ THẨM ĐỊNH (NQ22)": {
-          "Trực tiếp": {
-            "CẤP LẦN ĐẦU": {
-              "Cấp GCNQSDD": 880000,
-              "Cấp GCN về Tài Sản": 980000,
-              "Cấp GCNQSDD và Tài sản": 1250000
-            },
-            "CẤP ĐỔI": {
-              "Cấp GCNQSDD": 810000,
-              "Cấp GCN về Tài Sản": 810000,
-              "Cấp GCNQSDD và Tài sản": 1080000
-            },
-            "CẤP LẠI": {
-              "Cấp GCNQSDD": 810000,
-              "Cấp GCN về Tài Sản": 810000,
-              "Cấp GCNQSDD và Tài sản": 1080000
-            },
-            "CẤP BIẾN ĐỘNG": {
-              "IN MỚI": {
-                "Cấp GCNQSDD": 530000,
-                "Cấp GCN về Tài Sản": 580000,
-                "Cấp GCNQSDD và Tài sản": 720000
-              },
-              "TRANG 4": {
-                "Cấp GCNQSDD": 450000,
-                "Cấp GCN về Tài Sản": 470000,
-                "Cấp GCNQSDD và Tài sản": 590000
-              }
-            }
+  "metadata": {
+    "file_name": "nguon.xlsx",
+    "sheets": [
+      {
+        "sheet_name": "Trinh tu thu tuc",
+        "sheet_index_num": 1
+      },
+      {
+        "sheet_name": "Don gia 1",
+        "sheet_index_num": 2
+      },
+      {
+        "sheet_name": "Don gia 2",
+        "sheet_index_num": 3
+      }
+    ]
+  },
+  "data": {
+    "Trinh tu thu tuc": [
+      {
+        "STT": "1",
+        "TenVietTat": "Chuyển quyền",
+        "Tên thủ tục": "Hồ sơ thủ tục chuyển quyền (chuyển đổi, chuyển nhượng, thừa kế, tặng cho, thỏa thuận hộ gia đình, vợ chồng…)",
+        "Căn cứ pháp lý": "II.1, mục 1 của II.2 phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
+          "- Giấy chứng nhận đã cấp",
+          "- Hợp đồng chuyển nhượng, Hợp đồng tặng cho, VB phân chia di sản thừa kế, hợp đồng chuyển đổi hoặc văn bản về việc chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.",
+          "- Văn bản về việc đại diện theo quy định của pháp luật về dân sự đối với trường hợp thực hiện thủ tục đăng ký đất đai, tài sản gắn liền với đất thông qua người đại diện."
+        ],
+        "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
+        "Ghi chú": [
+          "Khi tiếp nhận kiểm tra nội dung còn thời hạn sử dụng đất hay không và có chậm đăng ký biến động theo quy định tại Khoản 3 Điều 133 Luật đất đai năm 2024."
+        ],
+        "Phí và lệ phí": [
+          
+        ],
+        "icon": "🔄",
+        "time": 8
+      },
+      {
+        "STT": "2",
+        "TenVietTat": "Điều chỉnh thông tin sử dụng đất",
+        "Tên thủ tục": "Hồ sơ thủ tục điều chỉnh thông tin sử dụng đất",
+        "Căn cứ pháp lý": "II.1, mục 5 của II.2 phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025.",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
+          "- Khai thác sử dụng thông tin trong cơ sở dữ liệu quốc gia về dân cư, nếu không khai thác được thông tin về cá nhân thì nộp bản sao hoặc xuất trình bản chính giấy tờ chứng minh việc đổi tên, thay đổi thông tin của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất."
+        ],
+        "Thời gian giải quyết": "Không quá 4 ngày làm việc",
+        "Phí và lệ phí": "",
+        "icon": "✏️",
+        "time": 4
+      },
+      {
+        "STT": "3",
+        "TenVietTat": "Gia hạn",
+        "Tên thủ tục": "Thủ tục gia hạn đất nông nghiệp",
+        "Căn cứ pháp lý": "Điều 65 Nghị định 102/2024/NĐ-CP ngày 30/06/2024",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp",
+          "- Đơn xin xác nhận lại thời hạn sử dụng đất nông nghiệp (mẫu số 09) ban hành kèm theo Nghị định 102/2024/NĐ-CP ngày 30 tháng 07 năm 2024"
+        ],
+        "Thời gian giải quyết": "Không quá 7 ngày làm việc",
+        "icon": "⏳",
+        "time": 7
+      },
+      {
+        "STT": "4",
+        "TenVietTat": "Xác lập, thay đổi hạn chế liền kề",
+        "Tên thủ tục": "Thành phần hồ sơ thủ tục xác lập, thay đổi hạn chế liền kề",
+        "Căn cứ pháp lý": "II.1, mục 6 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
+          "- Văn bản thỏa thuận về việc xác lập, thay đổi quyền sử dụng hạn chế thửa đất liền kề có kèm theo bản sơ hoạ."
+        ],
+        "Thời gian giải quyết": "Không quá 5 ngày làm việc",
+        "icon": "📑",
+        "time": 5
+      },
+      {
+        "STT": "5",
+        "TenVietTat": "Hồ sơ nhận quyền sử dụng đất theo kết quả giải quyết tranh chấp, …. về đất đai hoặc bản án QĐ Tòa án.",
+        "Tên thủ tục": "Thành phần hồ sơ thủ tục nhận quyền sử dụng đất theo kết quả giải quyết tranh chấp, khiếu nại, tố cáo về đất đai hoặc bản án Quyết định của Tòa án.",
+        "Căn cứ pháp lý": "II.1, mục 12 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp.",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
+          "- Biên bản hòa giải thành hoặc văn bản công nhận kết quả hòa giải thành được cơ quan có thẩm quyền công nhận.",
+          "- Quyết định của cơ quan có thẩm quyền về việc giải quyết tranh chấp, khiếu nại, tố cáo về đất đai đã có hiệu lực thi hành theo quy định của pháp luật.",
+          "- Quyết định hoặc bản án của Tòa án nhân dân, quyết định về thi hành án của cơ quan thi hành án đã được thi hành."
+        ],
+        "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
+        "icon": "📥",
+        "time": 8
+      },
+      {
+        "STT": "6",
+        "TenVietTat": "Nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do xử lý tài sản thế chấp....",
+        "Tên thủ tục": "Trường hợp nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do xử lý tài sản thế chấp, tài sản gắn liền với đất đã được đăng ký, bao gồm xử lý khoản nợ có nguồn gốc từ khoản nợ xấu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+        "Căn cứ pháp lý": "II.1, mục 13 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
+          "- Hợp đồng chuyển nhượng QSDĐ.",
+          "- Hợp đồng mua bán tài sản bán đấu giá hoặc VB xác nhận kết quả thi hành án của Cơ quan thi hành án dân sự."
+        ],
+        "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
+        "icon": "📥",
+        "time": 8
+      },
+      {
+        "STT": "7",
+        "TenVietTat": "Hồ  sơ  xóa  ghi  nợ  tiền  sử  dụng  đất,  lệ  phí trước  bạ",
+        "Tên thủ tục": "Hồ sơ thủ tục xóa ghi nợ tiền sử dụng đất, lệ phí trước bạ",
+        "Căn cứ pháp lý": "II.1, mục 17 của II.2. phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp",
+          "- Giấy tờ chứng minh đã hoàn thành việc thanh toán nợ tiền sử dụng đất, lệ phí trước bạ theo quy định pháp luật về thu tiền sử dụng đất tiền thuê đất"
+        ],
+        "Thời gian giải quyết": "Trong ngày làm việc nếu nộp sau 15 giờ cùng ngày thì thời gian giải quyết trong ngày tiếp theo.",
+        "icon": "💸",
+        "time": 1
+      },
+      {
+        "STT": "8",
+        "TenVietTat": "Đính chính giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động có sai sót",
+        "Tên thủ tục": "Hồ sơ thủ tục đính chính giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động có sai sót",
+        "Căn cứ pháp lý": "XIV. phần B của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "Giấy chứng nhận đã cấp bản gốc",
+          "Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
+          "Giấy tờ chứng minh sai sót thông tin của người được cấp giấy so với thông tin tại thời điểm đề nghị đính chính."
+        ],
+        "Thời gian giải quyết": "Không quá 8 ngày làm việc.",
+        "icon": "📝",
+        "time": 8
+      },
+      {
+        "STT": "9",
+        "TenVietTat": "Chuyển mục đích sử dụng đất",
+        "Tên thủ tục": "Thành phần hồ sơ thủ tục chuyển mục đích sử dụng đất quy định tại khoản 3 Điều 121 Luật Đất Đai (chuyển mục đích không phải xin phép của cơ quan có thẩm quyền",
+        "Căn cứ pháp lý": "II.1, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025."
+        ],
+        "Thời gian giải quyết": "Không quá 7 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
+        "Ghi chú": "Lưu ý: Gửi Phiếu chuyển thông tin để xác định nghĩa vụ tài chính về đất đai theo Mẫu số 19 ban hành kèm theo Nghị định số 151/2025/NĐ-CP đến cơ quan thuế để xác định và thông báo thu nghĩa vụ tài chính đối với trường hợp phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật.",
+        "icon": "🔁",
+        "time": 7
+      },
+      {
+        "STT": "10",
+        "TenVietTat": "Tách, hợp thửa không thực hiện quyền",
+        "Tên thủ tục": "Thành phần hồ sơ thủ tục tách, hợp thửa không thực hiện quyền",
+        "Căn cứ pháp lý": "I. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp hoặc bản sao giấy chứng nhận có công chứng chứng thực hoặc bản sao kèm bản chính đã đối chiếu",
+          "- Đơn đề nghị tách thửa hợp thửa đất theo mẫu số 21 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
+          "- Bản vẽ tách thửa hợp thửa lập theo mẫu số 22 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
+          "- Các văn bản của cơ quan có thẩm quyền có nội dung thể hiện tách thửa đất, hợp thửa đất (nếu có)."
+        ],
+        "Thời gian giải quyết": "Không quá 12 ngày làm việc",
+        "icon": "📄",
+        "time": 12
+      },
+      {
+        "STT": "11",
+        "TenVietTat": "Tách thửa kèm theo thực hiện quyền",
+        "Tên thủ tục": "Hồ sơ thủ tục tách thửa kèm theo thực hiện quyền:",
+        "Căn cứ pháp lý": "I. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp hoặc bản sao giấy chứng nhận có công chứng chứng thực hoặc bản sao kèm bản chính đã đối chiếu.",
+          "- Đơn đề nghị tách thửa hợp thửa đất theo mẫu số 21 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
+          "- Bản vẽ tách thửa hợp thửa lập theo mẫu số 22 ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
+          "- Hợp đồng chuyển nhượng, Hợp đồng tặng cho, VB phân chia di sản thừa kế, hợp đồng chuyển đổi hoặc văn bản về việc chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.",
+          "- Các văn bản của cơ quan có thẩm quyền có nội dung thể hiện tách thửa đất, hợp thửa đất (nếu có)."
+        ],
+        "Thời gian giải quyết": "Không quá 12 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
+        "icon": "📄",
+        "time": 12
+      },
+      {
+        "STT": "12",
+        "TenVietTat": "Hồ sơ cấp đổi giấy chứng nhận",
+        "Tên thủ tục": "Hồ sơ thủ tục cấp đổi giấy chứng nhận",
+        "Căn cứ pháp lý": "VII. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
+          "- Hồ sơ kỹ thuật đối với trường hợp có thay đổi diện tích ranh giới vị trí (kèm theo bản vẽ trích đo là biên bản mốc giới của đo đạc có các chủ sử dụng đất ký giáp ranh và xác nhận tình trạng tranh chấp)"
+        ],
+        "Thời gian giải quyết": "Không quá 5 ngày làm việc đối với trường hợp không biến động diện tích, có biến động diện tích hay cấp đổi đúng vị trí không quá 10 ngày làm việc (không kể thời gian thực hiệ NVTC)",
+        "Ghi chú": [
+                 "Lưu ý có 8 trường hợp hợp thực hiện cấp đổi. Đề nghị nghiên cứu trang 66-67 phụ lục I Ban hành kèm theo Nghị định 151/2025/NĐ-CP"
+        ],
+        "icon": "🔃",
+        "time": 5
+      },
+      {
+        "STT": "13",
+        "TenVietTat": "Cấp lại",
+        "Tên thủ tục": "Hồ sơ thủ tục cấp lại giấy chứng nhận đã cấp do bị mất",
+        "Căn cứ pháp lý": "VIII. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "Đối với trường hợp cấp lại Giấy chứng nhận bị mất",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
+          "- Mảnh trích đo bản đồ địa chính thửa đất đối với trường hợp người sử dụng đất có nhu cầu đo đạc để xác định lại kích thước các cạnh, diện tích của thửa đất",
+          "Đối với trường hợp mất Trang bổ sung",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP",
+          "- Giấy chứng nhận đã cấp.",
+          "- Mảnh trích đo bản đồ địa chính thửa đất đối với trường hợp người sử dụng đất có nhu cầu đo đạc để xác định lại kích thước các cạnh, diện tích của thửa đất"
+        ],
+        "Thời gian giải quyết": "Không quá 10 ngày làm việc.",
+        "icon": "♻️",
+        "time": 10
+      },
+      {
+        "STT": "14",
+        "TenVietTat": "Thu hồi Giấy chứng nhận",
+        "Tên thủ tục": "Hồ sơ thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện và cấp lại Giấy chứng nhận sau khi thu hồi",
+        "Căn cứ pháp lý": "khoản XV. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận đã cấp (bản gốc).",
+          "- Văn bản kiến nghị việc cấp Giấy chứng nhận không đúng quy định của pháp luật đất đai (bản chính)."
+        ],
+        "Thời gian giải quyết": "Không quá 25 ngày làm việc",
+        "Ghi chú": [
+          "Thông tin chi tiết đề nghị nghiên cứu trang 80 đến trang 83 phụ lục I ban hành kèm theo Nghị dịnh 151/2025/NĐCP"
+        ],
+        "icon": "❌",
+        "time": 25
+      },
+      {
+        "STT": "15",
+        "TenVietTat": "Đăng ký, cấp Giấy chứng nhận đối trước ngày 01 tháng 8 năm 2024",
+        "Tên thủ tục": "hồ sơ đăng ký, cấp Giấy chứng nhận đối với trường hợp đã chuyển quyền sử dụng đất trước ngày 01 tháng 8 năm 2024 mà bên chuyển quyền đã được cấp Giấy chứng nhận nhưng chưa thực hiện thủ tục chuyển quyền theo quy định",
+        "Căn cứ pháp lý": "khoản XI. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
+        "Thành phần hồ sơ giấy tờ": [
+          "(1) Trường hợp người đang sử dụng đất do nhận chuyển quyền sử dụng đất trước ngày 01 tháng 8 năm 2024 nhưng chỉ có hợp đồng, văn bản về chuyển quyền sử dụng đất đã lập theo quy định mà bên chuyển quyền không trao Giấy chứng nhận cho bên nhận chuyển quyền thì hồ sơ gồm:",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP.",
+          "- Hợp đồng, văn bản về chuyển quyền sử dụng đất đã lập theo quy định.",
+          "(2) Trường hợp bên nhận chuyển quyền sử dụng đất chỉ có Giấy chứng nhận đã cấp của bên chuyển quyền nhưng không có hợp đồng, văn bản về chuyển quyền sử dụng đất theo quy định thì hồ sơ gồm:",
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP.",
+          "- Bản gốc Giấy chứng nhận đã cấp.",
+          "- Giấy tờ về việc chuyển quyền sử dụng đất có đủ chữ ký của bên chuyển quyền và bên nhận chuyển quyền."
+        ],
+        "Thời gian giải quyết": "Không quá 08 ngày làm việc (không kể thời gian hoàn thành NVTC)",
+        "Ghi chú": [
+         "Nội dung nghiên cứu trang 73-74 phụ lục I ban hành kèm theo Nghị định 151/2025/NĐ-CP"
+        ],
+        "icon": "🗂️",
+        "time": 8
+      },
+      {
+        "STT": "16",
+        "TenVietTat": "Đính chính Giấy chứng nhận đã cấp",
+        "Tên thủ tục": "Đính chính Giấy chứng nhận đã cấp",
+        "Căn cứ pháp lý": "khoản XIV. phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025)",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18 ban hành kèm theo Nghị định số 151/2025/NĐ-CP",
+          "Giấy chứng nhận đã cấp",
+          "- Giấy tờ chứng minh sai sót thông tin của người được cấp Giấy chứng nhận so với thông tin tại thời điểm đề nghị đính chính hoặc sai sót thông tin về thửa đất, tài sản gắn liền với đất so với thông tin trên Giấy chứng nhận đã cấp",
+          "- Văn bản về việc ủy quyền theo quy định của pháp luật về dân sự đối với trường hợp thực hiện thủ tục thông qua người đại diện (nếu có)"
+        ],
+        "Thời gian giải quyết": "Không quá 8 ngày làm việc.",
+        "icon": "📝",
+        "time": 8
+      },
+      {
+        "STT": "17",
+        "TenVietTat": "Cung cấp dữ liệu đất đai",
+        "Tên thủ tục": "Cung cấp dữ liệu thông tin, dữ liệu đất đai",
+        "Căn cứ pháp lý": "Phần VI Nghị định 151/2025/NĐ-CP ngày 12/6/2025",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Phiếu yêu cầu cung cấp thông tin dữ liệu đất đai mẫu số 14 ban hành kèm theo Nghị định 151/2025/NĐ-CP."
+        ],
+        "Thời gian giải quyết": "Không quá 2 ngày làm việc",
+        "icon": "📊",
+        "time": 2
+      },
+      {
+        "STT": "18",
+        "TenVietTat": "Đăng ký giao dịch bảo đảm",
+        "Tên thủ tục": "Đăng ký giao dịch bảo đảm",
+        "Căn cứ pháp lý": "Nghị định 99/2022/NĐCP ngày 30/11/2024",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Giấy chứng nhận quyền sử dụng đất",
+          "- Hợp đồng bảo đảm",
+          "- Các mẫu đơn 1a, 2a, 3a, 4a,5a, 6a,7a ban hành kèm theo Nghị định 99"
+        ],
+        "Thời gian giải quyết": "Không quá 3 ngày làm việc",
+        "icon": "🗂️",
+        "time": 3
+      },
+      {
+        "STT": "19",
+        "TenVietTat": "Đo đạc",
+        "Tên thủ tục": "Đo đạc lập bản vẽ kỷ thuật thửa đất",
+        "Căn cứ pháp lý": "Thông tư 26/2024/TT-BTNMT ngày 26/44/2024",
+        "Thành phần hồ sơ giấy tờ": [
+          "- Hợp đồng đo vẽ",
+          "- Bản photo giấy chứng nhận"
+        ],
+        "Thời gian giải quyết": "Từ 3 đến 10 ngày làm việc",
+        "Ghi chú": "Lưu ý lập hợp đồng trực tiếp tại Trung tâm hành chính công các xã An Phước, Bình An, Long Thành, Long Phước, Phước Thái",
+        "Phí và lệ phí": "",
+        "icon": "📏",
+        "time": 10
+      }
+    ],
+    "Don gia 1": {
+      "PHÍ THẨM ĐỊNH (NQ22)": {
+        "Trực tiếp": {
+          "CẤP LẦN ĐẦU": {
+            "Cấp GCNQSDD": 880000,
+            "Cấp GCN về Tài Sản": 980000,
+            "Cấp GCNQSDD và Tài sản": 1250000
           },
-          "Trực tuyến": {
-            "CẤP LẦN ĐẦU": {
-              "Cấp GCNQSDD": 836000,
-              "Cấp GCN về Tài Sản": 931000,
-              "Cấp GCNQSDD và Tài sản": 1187500
-            },
-            "CẤP ĐỔI": {
-              "Cấp GCNQSDD": 769500,
-              "Cấp GCN về Tài Sản": 769500,
-              "Cấp GCNQSDD và Tài sản": 1026000
-            },
-            "CẤP LẠI": {
-              "Cấp GCNQSDD": 769500,
-              "Cấp GCN về Tài Sản": 769500,
-              "Cấp GCNQSDD và Tài sản": 1026000
-            },
-            "CẤP BIẾN ĐỘNG": {
-              "IN MỚI": {
-                "Cấp GCNQSDD": 503500,
-                "Cấp GCN về Tài Sản": 551000,
-                "Cấp GCNQSDD và Tài sản": 684000
-              },
-              "TRANG 4": {
-                "Cấp GCNQSDD": 427500,
-                "Cấp GCN về Tài Sản": 446500,
-                "Cấp GCNQSDD và Tài sản": 560500
-              }
-            }
-          }
-        },
-        "PHÍ GDBĐ (NQ23)": {
-          "Trực tiếp": {
-            "THẾ CHẤP": {
-              "Thế chấp QSDD": 280000,
-              "Thế chấp Tài sản": 330000,
-              "Thế chấp QSDD + tài sản": 410000
-            },
-            "THAY ĐỔI": {
-              "Thế chấp QSDD": 280000,
-              "Thế chấp Tài sản": 330000,
-              "Thế chấp QSDD + tài sản": 410000
-            }
+          "CẤP ĐỔI": {
+            "Cấp GCNQSDD": 810000,
+            "Cấp GCN về Tài Sản": 810000,
+            "Cấp GCNQSDD và Tài sản": 1080000
           },
-          "Trực tuyến": {
-            "THẾ CHẤP": {
-              "Thế chấp QSDD": 266000,
-              "Thế chấp Tài sản": 313500,
-              "Thế chấp QSDD + tài sản": 389500
-            },
-            "THAY ĐỔI": {
-              "Thế chấp QSDD": 266000,
-              "Thế chấp Tài sản": 313500,
-              "Thế chấp QSDD + tài sản": 389500
-            }
-          }
-        },
-        "LỆ PHÍ (NQ21)": {
-          "Nhà ở gắn liền với đất": {
+          "CẤP LẠI": {
+            "Cấp GCNQSDD": 810000,
+            "Cấp GCN về Tài Sản": 810000,
+            "Cấp GCNQSDD và Tài sản": 1080000
+          },
+          "CẤP BIẾN ĐỘNG": {
             "IN MỚI": {
-              "Huyện, xã": 15000,
-              "Thành phố": 30000
+              "Cấp GCNQSDD": 530000,
+              "Cấp GCN về Tài Sản": 580000,
+              "Cấp GCNQSDD và Tài sản": 720000
             },
-            "T4": {
-              "Huyện, xã": 12000,
-              "Thành phố": 24000
+            "TRANG 4": {
+              "Cấp GCNQSDD": 450000,
+              "Cấp GCN về Tài Sản": 470000,
+              "Cấp GCNQSDD và Tài sản": 590000
             }
           }
         },
-        "KTTT (NQ24)": {
-          "5 trang đầu": 32000,
-          "T6 trở đi": 8200
+        "Trực tuyến": {
+          "CẤP LẦN ĐẦU": {
+            "Cấp GCNQSDD": 836000,
+            "Cấp GCN về Tài Sản": 931000,
+            "Cấp GCNQSDD và Tài sản": 1187500
+          },
+          "CẤP ĐỔI": {
+            "Cấp GCNQSDD": 769500,
+            "Cấp GCN về Tài Sản": 769500,
+            "Cấp GCNQSDD và Tài sản": 1026000
+          },
+          "CẤP LẠI": {
+            "Cấp GCNQSDD": 769500,
+            "Cấp GCN về Tài Sản": 769500,
+            "Cấp GCNQSDD và Tài sản": 1026000
+          },
+          "CẤP BIẾN ĐỘNG": {
+            "IN MỚI": {
+              "Cấp GCNQSDD": 503500,
+              "Cấp GCN về Tài Sản": 551000,
+              "Cấp GCNQSDD và Tài sản": 684000
+            },
+            "TRANG 4": {
+              "Cấp GCNQSDD": 427500,
+              "Cấp GCN về Tài Sản": 446500,
+              "Cấp GCNQSDD và Tài sản": 560500
+            }
+          }
         }
       },
-      "Don gia 2": {
-        "CẤP ĐỔI TRỰC TIẾP": 822000,
-        "CẤP ĐỔI TRỰC TUYẾN": 769500,
-        "CẤP ĐỔI CÓ TS TRỰC TIẾP": 1110000,
-        "CẤP ĐỔI CÓ TS TRỰC TUYẾN": 1026000,
-        "CQ IN GIẤY TRỰC TIẾP": 542000,
-        "CQ IN GIẤY TRỰC TUYẾN": 503500,
-        "CQ IN GIẤY CÓ TS TRỰC TIẾP": 750000,
-        "CQ IN GIẤY CÓ TS TRỰC TUYẾN": 684000,
-        "CQ TRANG 4 GIẤY TRỰC TIẾP": 462000,
-        "CQ TRANG 4 GIẤY TRỰC TUYẾN": 427500,
-        "CQ TRANG 4 GIẤY CÓ TS TRỰC TIẾP": 620000,
-        "CQ TRANG 4 GIẤY CÓ TS TRỰC TUYẾN": 560500,
-        "CHỈNH LÝ IN GIẤY TRỰC TIẾP": 322000,
-        "CHỈNH LÝ IN GIẤY TRỰC TUYẾN": 294500,
-        "CHỈNH LÝ TRANG 4 TRỰC TIẾP": 202000,
-        "CHỈNH LÝ TRANG 4TRỰC TUYẾN": 180500,
-        "THẾ, XÓA, THAY ĐỔI NGÂN HÀNG": 266000,
-        "THẾ, XÓA, THAY ĐỔI NGÂN HÀNG CÓ TÀI SẢN": 389500,
-        "CẤP GIẤY TRỰC TIẾP": 895000,
-        "CẤP GIẤY TRỰC TUYẾN": 836000,
-        "CẤP GIẤY CÓ TS TRỰC TIẾP": 1280000,
-        "CẤP GIẤY CÓ TS TRỰC TUYẾN": 1187500,
-        "TẤT CẢ HỒ SƠ SỐ GIẤY TĂNG THÊM": 50000
+      "PHÍ GDBĐ (NQ23)": {
+        "Trực tiếp": {
+          "THẾ CHẤP": {
+            "Thế chấp QSDD": 280000,
+            "Thế chấp Tài sản": 330000,
+            "Thế chấp QSDD + tài sản": 410000
+          },
+          "THAY ĐỔI": {
+            "Thế chấp QSDD": 280000,
+            "Thế chấp Tài sản": 330000,
+            "Thế chấp QSDD + tài sản": 410000
+          }
+        },
+        "Trực tuyến": {
+          "THẾ CHẤP": {
+            "Thế chấp QSDD": 266000,
+            "Thế chấp Tài sản": 313500,
+            "Thế chấp QSDD + tài sản": 389500
+          },
+          "THAY ĐỔI": {
+            "Thế chấp QSDD": 266000,
+            "Thế chấp Tài sản": 313500,
+            "Thế chấp QSDD + tài sản": 389500
+          }
+        }
+      },
+      "LỆ PHÍ (NQ21)": {
+        "Nhà ở gắn liền với đất": {
+          "IN MỚI": {
+            "Huyện, xã": 15000,
+            "Thành phố": 30000
+          },
+          "T4": {
+            "Huyện, xã": 12000,
+            "Thành phố": 24000
+          }
+        }
+      },
+      "KTTT (NQ24)": {
+        "5 trang đầu": 32000,
+        "T6 trở đi": 8200
       }
-    }
+    },
+    "Don gia 2": {
+      "CẤP ĐỔI TRỰC TIẾP": 822000,
+      "CẤP ĐỔI TRỰC TUYẾN": 769500,
+      "CẤP ĐỔI CÓ TS TRỰC TIẾP": 1110000,
+      "CẤP ĐỔI CÓ TS TRỰC TUYẾN": 1026000,
+      "CQ IN GIẤY TRỰC TIẾP": 542000,
+      "CQ IN GIẤY TRỰC TUYẾN": 503500,
+      "CQ IN GIẤY CÓ TS TRỰC TIẾP": 750000,
+      "CQ IN GIẤY CÓ TS TRỰC TUYẾN": 684000,
+      "CQ TRANG 4 GIẤY TRỰC TIẾP": 462000,
+      "CQ TRANG 4 GIẤY TRỰC TUYẾN": 427500,
+      "CQ TRANG 4 GIẤY CÓ TS TRỰC TIẾP": 620000,
+      "CQ TRANG 4 GIẤY CÓ TS TRỰC TUYẾN": 560500,
+      "CHỈNH LÝ IN GIẤY TRỰC TIẾP": 322000,
+      "CHỈNH LÝ IN GIẤY TRỰC TUYẾN": 294500,
+      "CHỈNH LÝ TRANG 4 TRỰC TIẾP": 202000,
+      "CHỈNH LÝ TRANG 4TRỰC TUYẾN": 180500,
+      "THẾ, XÓA, THAY ĐỔI NGÂN HÀNG": 266000,
+      "THẾ, XÓA, THAY ĐỔI NGÂN HÀNG CÓ TÀI SẢN": 389500,
+      "CẤP GIẤY TRỰC TIẾP": 895000,
+      "CẤP GIẤY TRỰC TUYẾN": 836000,
+      "CẤP GIẤY CÓ TS TRỰC TIẾP": 1280000,
+      "CẤP GIẤY CÓ TS TRỰC TUYẾN": 1187500,
+      "TẤT CẢ HỒ SƠ SỐ GIẤY TĂNG THÊM": 50000
+    },
+    "Van ban phap ly": [
+      {
+        "id": 1,
+        "title": "Nghị định 151/2025/NĐ-CP",
+        "description": "Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp, phân quyền, phân cấp trong lĩnh vực đất đai",
+        "filename": "ND151.pdf",
+        "fileUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/151-ndcp.signed.pdf",
+        "category": "Nghị định",
+        "date": "2025-06-12",
+        "size": "2.3 MB",
+        "icon": "📋"
+      },
+      {
+        "id": 2,
+        "title": "Thông tư 24/2014/TT-BTNMT",
+        "description": "Thông tư quy định về hồ sơ địa chính",
+        "filename": "TT24.pdf",
+        "fileUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/24-btnmt-kem.pdf",
+        "category": "Thông tư",
+        "date": "2024-11-25",
+        "size": "1.8 MB",
+        "icon": "📄"
+      },
+      {
+        "id": 3,
+        "title": "Luật Đất đai 2024",
+        "description": "Luật Đất đai số 31/2024/QH15",
+        "filename": "LuatDatDai2024.pdf",
+        "fileUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+        "category": "Luật",
+        "date": "2024-09-15",
+        "size": "3.1 MB",
+        "icon": "⚖️"
+      },
+      {
+        "id": 4,
+        "title": "Quyết định số 17/2023/QĐ-UBND",
+        "description": "Ban hành đơn giá về dịch vụ đo đạc",
+        "filename": "QD17.pdf",
+        "fileUrl": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-17-2023-QD-UBND-bo-don-gia-dich-vu-do-dac-ban-do-dang-ky-dat-dai-Dong-Nai-563057.aspx",
+        "category": "Quyết định",
+        "date": "2023-04-10",
+        "size": "1.5 MB",
+        "icon": "📜"
+      },
+      {
+        "id": 5,
+        "title": "Nghị định 102/2024/NĐ-CP",
+        "description": "Quy định về xác nhận lại thời hạn sử dụng đất nông nghiệp",
+        "filename": "ND102.pdf",
+        "fileUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/8/102-nd.signed.pdf",
+        "category": "Nghị định",
+        "date": "2024-07-30",
+        "size": "1.2 MB",
+        "icon": "🗂️"
+      },
+      {
+        "id": 6,
+        "title": "Nghị định số 175/2025/NĐ-CP",
+        "description": "Sửa đổi, bổ sung một số điều của Nghị định số 10/2022/NĐ-CP ngày 15 tháng 01 năm 2022 của Chính phủ quy định về lệ phí trước bạ",
+        "filename": "ND175.pdf",
+        "fileUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/175-cp.signed.pdf",
+        "category": "Nghị định",
+        "date": "2025-05-19",
+        "size": "2.7 MB",
+        "icon": "📝"
+      }
+    ]
   }
+}
