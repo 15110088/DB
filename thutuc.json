@@ -25,14 +25,13 @@
           "Căn cứ pháp lý": "II.1, mục 1 của II.2 phần B, V phần C của Phần 5 Nghị định 151/2025/NĐ-CP ngày 12/06/2025",
           "Thành phần hồ sơ giấy tờ": [
             "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025.",
+            "- Giấy chứng nhận đã cấp",
             "- Hợp đồng chuyển nhượng, Hợp đồng tặng cho, VB phân chia di sản thừa kế, hợp đồng chuyển đổi hoặc văn bản về việc chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.",
             "- Văn bản về việc đại diện theo quy định của pháp luật về dân sự đối với trường hợp thực hiện thủ tục đăng ký đất đai, tài sản gắn liền với đất thông qua người đại diện."
           ],
           "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
           "Ghi chú": [
-            "Trường hợp nhiều người nhận chuyển quyền có nhu cầu cấp chung 1 giấy thì bổ sung văn bản thoả thuận về việc cấp chung.",
-            "Trường hợp chuyển quyền mà giấy đang thế chấp tại các Ngân hàng và đã đăng ký tại Văn phòng Đăng ký đất đai, chi nhánh Văn phòng Đăng ký đất đai bổ sung thêm văn bản bên nhận thế chấp về việc đồng ý cho bên thế chấp được chuyển nhượng.",
-            "Khi tiếp nhận kiểm tra nội dung còn thời hạn sử dụng đất hay không và có chậm đăng ký biến động theo quy định tại Khoản 3 Điều 133 Luật đất đai năm 2024."
+            "Khi tiếp nhận kiểm tra nội dung còn thời hạn sử dụng đất hay không và có chậm đăng ký biến động theo quy định tại Khoản 3 Điều 133 Luật đất đai năm 2024.",
           ],
           "Phí và lệ phí": [
             "Nghị quyết 21/2024/NQ-HĐND ngày 30/12/2024 của Hội đồng nhân dân tỉnh đồng nai",
@@ -88,7 +87,7 @@
             "- Quyết định của cơ quan có thẩm quyền về việc giải quyết tranh chấp, khiếu nại, tố cáo về đất đai đã có hiệu lực thi hành theo quy định của pháp luật.",
             "- Quyết định hoặc bản án của Tòa án nhân dân, quyết định về thi hành án của cơ quan thi hành án đã được thi hành."
           ],
-          "Thời gian giải quyết": "Không quá 8 ngày làm việc"
+          "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)"
         },
         {
           "STT": "6",
@@ -101,7 +100,7 @@
             "- Hợp đồng chuyển nhượng QSDĐ.",
             "- Hợp đồng mua bán tài sản bán đấu giá hoặc VB xác nhận kết quả thi hành án của Cơ quan thi hành án dân sự."
           ],
-          "Thời gian giải quyết": "Không quá 8 ngày làm việc"
+          "Thời gian giải quyết": "Không quá 8 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)"
         },
         {
           "STT": "7",
@@ -135,7 +134,7 @@
             "- Giấy chứng nhận đã cấp",
             "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025."
           ],
-          "Thời gian giải quyết": "Không quá 7 ngày làm việc",
+          "Thời gian giải quyết": "Không quá 7 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)",
           "Ghi chú": "Lưu ý: Gửi Phiếu chuyển thông tin để xác định nghĩa vụ tài chính về đất đai theo Mẫu số 19 ban hành kèm theo Nghị định số 151/2025/NĐ-CP đến cơ quan thuế để xác định và thông báo thu nghĩa vụ tài chính đối với trường hợp phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật."
         },
         {
@@ -163,7 +162,7 @@
             "- Hợp đồng chuyển nhượng, Hợp đồng tặng cho, VB phân chia di sản thừa kế, hợp đồng chuyển đổi hoặc văn bản về việc chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.",
             "- Các văn bản của cơ quan có thẩm quyền có nội dung thể hiện tách thửa đất, hợp thửa đất (nếu có)."
           ],
-          "Thời gian giải quyết": "Không quá 12 ngày làm việc"
+          "Thời gian giải quyết": "Không quá 12 ngày làm việc (không tính thời gian thực hiện nghĩa vụ tài chính)"
         },
         {
           "STT": "12",
@@ -175,11 +174,9 @@
             "- Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 18/ ban hành kèm theo Nghị định số 151/2025/NĐ-CP ngày 12 tháng 6 năm 2025",
             "- Hồ sơ kỹ thuật đối với trường hợp có thay đổi diện tích ranh giới vị trí (kèm theo bản vẽ trích đo là biên bản mốc giới của đo đạc có các chủ sử dụng đất ký giáp ranh và xác nhận tình trạng tranh chấp)"
           ],
-          "Thời gian giải quyết": "Không quá 5 ngày làm việc đối với trường hợp không biến động diện tích, có biến động diện tích hay cấp đổi đúng vị trí không quá 10 ngày làm việc.",
+          "Thời gian giải quyết": "Không quá 5 ngày làm việc đối với trường hợp không biến động diện tích, có biến động diện tích hay cấp đổi đúng vị trí không quá 10 ngày làm việc (không kể thời gian thực hiệ NVTC)",
           "Ghi chú": [
-            "- Đối với trường hợp GCN đã cấp ghi tên hộ gia đình, nay các thành viên có chung quyền sử dụng đất của hộ gia đình đó có yêu cầu cấp đổi GCN để ghi đầy đủ tên thành viên có chung QSDĐ của hộ gia đình thì đơn ĐĐKBĐ phải thể hiện thông tin các thành viên có chung QSDĐ của hộ gia đình.",
-            "Đối với trường hợp QSDĐ là tài sản chung của vợ chồng mà giấy chứng nhận đã cấp chỉ ghi họ tên của vợ hoặc chồng, nay có yêu cầu cấp đổi giấy chứng nhận để ghi tên hai vợ chồng mà không khai thác được thông tin về tình trạng hôn nhân trong Cơ sở dữ liệu quốc gia về dân cư thì người sử dụng đất phải nộp giấy tờ bản sao chứng minh về tình trạng hôn nhân.",
-            "Lưu ý các trường hợp quy định cấp đổi tại nội dung này: Giấy chứng nhận đã cấp bị ố, nhòe, rách, hư hỏng; Giấy chứng nhận đã cấp chung cho nhiều thửa đất mà thực hiện cấp riêng cho từng thửa đất theo nhu cầu của người sử dụng đất và trường hợp cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp có nhiều thửa đất cấp chung 01 Giấy chứng nhận mà có một hoặc một số thửa đất thuộc trường hợp thu hồi Giấy chứng nhận; Mục đích sử dụng đất ghi trên Giấy chứng nhận đã cấp theo quy định của pháp luật về đất đai tại thời điểm cấp Giấy chứng nhận đã cấp khác với mục đích sử dụng đất theo phân loại đất quy định tại Điều 9 của Luật Đất đai và quy định tại Nghị định số 102/2024/NĐ-CP; Vị trí thửa đất trên Giấy chứng nhận đã cấp không chính xác so với vị trí thực tế sử dụng đất tại thời điểm cấp Giấy chứng nhận đã cấp; Quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là tài sản chung của vợ và chồng mà Giấy chứng nhận đã cấp chỉ ghi họ, tên của vợ hoặc của chồng, nay có yêu cầu cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất để ghi cả họ, tên vợ và họ, tên chồng; Giấy chứng nhận đã cấp ghi tên hộ gia đình, nay các thành viên có chung quyền sử dụng đất của hộ gia đình đó có yêu cầu cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất để ghi đầy đủ tên thành viên có chung quyền sử dụng đất của hộ gia đình; Người sử dụng đất có nhu cầu đổi Giấy chứng nhận đã cấp trước ngày 01 tháng 8 năm 2024 sang Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất."
+                   "Lưu ý có 8 trường hợp hợp thực hiện cấp đổi. Đề nghị nghiên cứu trang 66-67 phụ lục I Ban hành kèm theo Nghị định 151/2025/NĐ-CP"
           ]
         },
         {
@@ -209,11 +206,7 @@
           ],
           "Thời gian giải quyết": "Không quá 25 ngày làm việc",
           "Ghi chú": [
-            "1. Trường hợp Giấy chứng nhận bị thu hồi là Giấy chứng nhận cấp lần đầu thì cơ quan có chức năng quản lý đất đai thực hiện.",
-            "Thông báo cho Văn phòng đăng ký đất đai chuyển hồ sơ cấp Giấy chứng nhận để kiểm tra hồ sơ, xác định lại thông tin quy định tại điểm d khoản 2 Điều 152 của Luật Đất đai theo đúng quy định của pháp luật đất đai tại thời điểm cấp Giấy chứng nhận.",
-            "Cấp Giấy chứng nhận; chuyển hồ sơ đã giải quyết đến Văn phòng đăng ký đất đai để thực hiện chỉnh lý hồ sơ địa chính, cơ sở dữ liệu đất đai; chuyển Giấy chứng nhận đến cơ quan tiếp nhận hồ sơ để trao cho người được cấp.",
-            "2. Trường hợp Giấy chứng nhận bị thu hồi là Giấy chứng nhận được cấp trong trường hợp đăng ký biến động đất đai, tài sản gắn liền với đất thì Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai thực hiện: Kiểm tra hồ sơ đã cấp Giấy chứng nhận để xác định lại thông tin quy định tại điểm d khoản 2 Điều 152 của Luật Đất đai theo đúng quy định của pháp luật đất đai tại thời điểm cấp giấy",
-            "Cấp Giấy chứng nhận; chỉnh lý hồ sơ địa chính, cơ sở dữ liệu đất đai; trao Giấy chứng nhận hoặc chuyển cơ quan tiếp nhận hồ sơ để trao cho người được cấp"
+            "Thông tin chi tiết đề nghị nghiên cứu trang 80 đến trang 83 phụ lục I ban hành kèm theo Nghị dịnh 151/2025/NĐCP"
           ]
         },
         {
@@ -230,14 +223,9 @@
             "- Bản gốc Giấy chứng nhận đã cấp.",
             "- Giấy tờ về việc chuyển quyền sử dụng đất có đủ chữ ký của bên chuyển quyền và bên nhận chuyển quyền."
           ],
-          "Thời gian giải quyết": "Không quá 08 ngày làm việc",
+          "Thời gian giải quyết": "Không quá 08 ngày làm việc (không kể thời gian hoàn thành NVTC)",
           "Ghi chú": [
-            "Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai thực hiện các công việc sau:",
-            "Thông báo bằng văn bản cho Ủy ban nhân dân cấp xã nơi có đất để niêm yết công khai về việc làm thủ tục cấp Giấy chứng nhận cho người nhận chuyển quyền",
-            "Thông báo bằng văn bản cho bên chuyển quyền về việc làm thủ tục cấp Giấy chứng nhận cho người nhận chuyển quyền.",
-            "Trường hợp không rõ địa chỉ của người chuyển quyền để thông báo thì thực hiện đăng tin 03 lần trên phương tiện thông tin đại chúng ở địa phương, chi phí đăng tin do người đề nghị cấp Giấy chứng nhận trả.",
-            "- Sau thời hạn 30 ngày, kể từ ngày có thông báo hoặc đăng tin lần đầu tiên mà không có đơn đề nghị giải quyết tranh chấp thì gửi Phiếu chuyển thông tin để xác định nghĩa vụ tài chính về đất đai theo Mẫu số 19 ban hành kèm theo Nghị định số 151/2025/NĐ-CP; thực hiện cấp Giấy chứng nhận cho bên nhận chuyển quyền; trường hợp bên chuyển quyền không nộp Giấy chứng nhận đã cấp thì thực hiện việc hủy Giấy chứng nhận đã cấp.",
-            "Trường hợp có đơn đề nghị giải quyết tranh chấp thì hướng dẫn các bên nộp đơn đến cơ quan nhà nước có thẩm quyền giải quyết tranh chấp theo quy định."
+           "Nội dung nghiên cứu trang 73-74 phụ lục I ban hành kèm theo Nghị định 151/2025/NĐ-CP"
           ]
         },
         {
